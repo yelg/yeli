@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="58" viewBox="0 0 106 119">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 77px;
+        fill: #0c0b0b;
+        font-family: "Myriad Pro";
+      }
+    </style>
+  </defs>
+  <g id="devlab-logo" data-name="DevLapOps">
+    <text id="D" class="cls-1" transform="matrix(1.566, 0.376, -0.359, 1.497, 0.129, 83.359)">D</text>
+    <text id="L" class="cls-1" transform="translate(32.758 107.882) scale(1.677 1.478)">L</text>
+  </g>
+</svg>

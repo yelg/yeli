@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="66" viewBox="0 0 579 338">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 77px;
+        font-family: "Myriad Pro";
+      }
+
+      .cls-1, .cls-2 {
+        fill: #0c0b0b;
+      }
+
+      .cls-2 {
+        font-size: 46px;
+        font-family: "MV Boli";
+      }
+    </style>
+  </defs>
+  <g id="devlab-logo" data-name="DevLapOps">
+    <text id="D" class="cls-1" transform="matrix(4.462, 1.07, -1.022, 4.262, -0.632, 236.57)">D</text>
+    <text id="L" class="cls-1" transform="translate(92.36 306.386) scale(4.779 4.207)">L</text>
+    <text id="DevLabOps" class="cls-2" transform="translate(296.506 216.457) scale(1.078 0.88)">DevLabOps</text>
+  </g>
+</svg>
